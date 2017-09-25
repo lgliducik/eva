@@ -1,4 +1,6 @@
-venv/
+my_venv/
+week.db
+*.pyc
 
 
 
